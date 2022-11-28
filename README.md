@@ -20,7 +20,9 @@
 
 Так называемые скрытые команды:
 - /show_deleted  - позволяет посмотреть все удаленные позиции 
-- /show_all_with_deleted  - выводятся актуальные и удаленные позиции через FULL JOIN. 
+- /show_all_with_deleted  - выводятся актуальные и удаленные позиции через FULL JOIN.
+ 
+![databot](https://user-images.githubusercontent.com/36072345/204278314-d2571314-34ad-44c9-a2da-377418b69170.jpg)
 
 # Telegram bot with data base support
 
